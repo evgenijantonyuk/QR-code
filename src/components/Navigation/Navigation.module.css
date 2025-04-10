@@ -1,0 +1,14 @@
+.nav {
+    padding-top: 35px;
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.navLink {
+    text-decoration: none;
+    border: 1px solid #bdbcba;
+    border-radius: 5px;
+    padding: 10px 15px;
+}

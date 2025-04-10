@@ -1,0 +1,17 @@
+
+.history {
+    display: flex;
+    flex-direction: column;
+}
+
+.item {
+    margin-bottom: 15px;
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item svg {
+    margin-left: 10px;
+}
